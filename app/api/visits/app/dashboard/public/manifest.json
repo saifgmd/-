@@ -1,0 +1,10 @@
+{
+  "name": "الزيارات الميدانية",
+  "short_name": "الزيارات",
+  "start_url": "/",
+  "display": "standalone",
+  "lang": "ar",
+  "dir": "rtl",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb"
+}
