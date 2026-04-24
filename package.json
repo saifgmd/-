@@ -1,0 +1,27 @@
+{
+  "name": "field-visits-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "prisma generate && next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@prisma/client": "^5",
+    "lucide-react": "^0.400.0",
+    "next": "14",
+    "next-pwa": "^5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7",
+    "zod": "^3",
+    "@hookform/resolvers": "^3",
+    "xlsx": "^0.18.5",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25"
+  },
+  "devDependencies": {
+    "prisma": "^5",
+    "tailwindcss": "^3"
+  }
+}
